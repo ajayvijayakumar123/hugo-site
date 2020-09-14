@@ -1,13 +1,14 @@
-baseURL = "ajayvijayakumar123.github.io"
+baseURL = "https://ajayvijayakumar123.github.io"
 languageCode = "en-us"
-title = "Ajay"
+title = "Ajay Vijayakumar"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "ajayvijayakumar123.github.io"
 
 [params]
     author = "Ajay Vijayakumar"
-    description = "Hi, welcome to my website! I'm a CS major at Georgia Tech. I enjoy playing basketball, reading, and journaling my dreams!"
+    description = "Hi, I'm a CS major at Georgia Tech! I enjoy playing basketball, reading, and journaling my dreams."
     githubUsername = "#ajayvijayakumar123"
     # accent = "white"
     showBorder = false

@@ -1,6 +1,7 @@
 # [submodule "themes/minimal"]
 # 	path = themes/minimal
 # 	url = https://github.com/calintat/minimal.git
+
 [submodule "ajayvijayakumar123.github.io"]
 	path = ajayvijayakumar123.github.io
 	url = https://github.com/ajayvijayakumar123/ajayvijayakumar123.github.io.git
